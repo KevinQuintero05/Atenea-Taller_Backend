@@ -1,0 +1,30 @@
+form{
+    width: 80%;
+    margin: 10%;
+}
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+#card_e3{
+    justify-content: center;
+}
+
+
+#loginform .card{
+    background-color: rgb(223, 216, 216);
+}
+
+#inputlogin{
+    border: none;
+    background-color: rgba(255, 0, 0, 0.07);
+    color: white;
+}
+
+#opciones{
+   align-content: center;
+}
