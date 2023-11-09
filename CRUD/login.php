@@ -39,7 +39,7 @@
     <body>
        
                 <form id="loginform" action="validar.php" method="post">
-                    <h5 >Imgresar</h5>
+                    <h5 >Ingresar</h5>
                     <div class="mb-3">
                         <label for="exampleFormControlInput1" class="form-label" >Nombre de Usuario</label>
                         <input type="text" class="form-control" id="exampleFormControlInput1" name="usuario" required>
@@ -50,7 +50,7 @@
                     </div>
                     
                     <button type="button" class="btn btn-danger" value="Ingresar"><input id="inputlogin" type="submit" value="Ingresar"></button>
-                    <button type="button" class="btn btn-secondary">Registrase</butto>
+                    
                 </form>
             
     </body>

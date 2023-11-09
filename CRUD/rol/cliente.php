@@ -36,19 +36,19 @@
     <ul class="nav justify-content-center">
         
         <li class="nav-item">
-            <a class="nav-link" href="Ejer1.php">Ejercicio 1</a>
+            <a class="nav-link" href="../../Ejer1.php">Ejercicio 1</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="Ejer2.php">Ejercicio 2</a>
+            <a class="nav-link" href="../../Ejer2.php">Ejercicio 2</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="Ejer3.php">Ejercicio 3</a>
+            <a class="nav-link" href="../../Ejer3.php">Ejercicio 3</a>
         </li>
         <li class="nav-item">   
-            <a class="nav-link" href="Ejer4.php">Ejercicio 4</a>
+            <a class="nav-link" href="../../Ejer4.php">Ejercicio 4</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="Ejer5.php">Ejercicio 5</a>
+            <a class="nav-link" href="../../Ejer5.php">Ejercicio 5</a>
         </li>
         <li class="nav-item">
             <a class="nav-link disabled" aria-disabled="true">CRUD</a>
